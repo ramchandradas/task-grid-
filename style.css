@@ -1,0 +1,25 @@
+.container{
+background: #FF4DA5;
+margin: 10PX 0;
+padding: 90PX 0;
+}
+.container1{
+    display:grid;
+    grid-template-columns: 900px auto ;
+    text-align: center;
+
+}
+.item1{
+    background: #FF037E;   
+    padding: 90PX 0;
+    border-right: 9px solid white;
+}
+.item2{
+    background: #8b0144;   
+    padding: 90PX 0;
+}
+.container2{
+    background: #802755;
+margin: 10PX 0;
+padding: 90PX 0;
+}
